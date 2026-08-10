@@ -1,0 +1,48 @@
+{
+  "buildId": 1,
+  "metric": "victim_reported",
+  "periodHe": "12 החודשים שעד רבעון 4/2025",
+  "publishedHe": "פורסם 19.04.2026",
+  "newestQuarter": "2025Q4",
+  "defaultView": "local",
+  "paletteId": "rdylgn_brick",
+  "scaleId": "v1",
+  "nationalRate": 16.84,
+  "nationalMedian": 14.965,
+  "staleness": "warn",
+  "nationalBreaks": [
+    7,
+    15,
+    30,
+    60
+  ],
+  "localBreaks": [
+    0.5,
+    0.8,
+    1.25,
+    2
+  ],
+  "files": {
+    "areas": {
+      "raw": 1742517,
+      "gz": 317301,
+      "count": 3019
+    },
+    "localities": {
+      "raw": 475729,
+      "gz": 133287,
+      "count": 211
+    },
+    "breakdown": {
+      "raw": 1928640,
+      "gz": 128024,
+      "count": 1474
+    }
+  },
+  "metricGroups": [
+    300,
+    400,
+    700
+  ],
+  "generatedAt": "2026-08-09T16:30:29.458Z"
+}
